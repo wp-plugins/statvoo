@@ -2,8 +2,8 @@
 /*
 Plugin Name: Statvoo.com for Wordpress
 Plugin URI: http://wordpress.org/extend/plugins/statvoo/
-Description: Enables <a href="http://www.statvoo.com/">Statvoo.com</a> on all pages.
-Version: 1.0.0
+Description: Enables <a href="http://www.statvoo.com/">Statvoo.com</a> - Realtime Website Analytics and Traffic Monitoring - on all pages.
+Version: 1.0.6
 Author: Andrew Odendaal
 Author URI: http://www.statvoo.com/
 */
@@ -24,8 +24,18 @@ function admin_init_statvoo() {
 }
 
 function admin_menu_statvoo() {
-  add_options_page('Statvoo.com', 'Statvoo.com', 'manage_options', 'statvoo', 'options_page_statvoo');
+  add_dashboard_page('Statvoo.com', 'Statvoo', 'manage_options', 'statvoo', 'options_page_statvoo');
 }
+
+function admin_menu_bar_statvoo() {
+  global $wp_admin_bar;
+  $wp_admin_bar->add_menu( array(
+        'id' => "statvoo",
+        'title' => __( 'Statvoo', 'statvoo.com' ),
+        'href' => admin_url( 'index.php?page=statvoo')
+    ) );
+}
+
 
 function options_page_statvoo() {
   include(WP_PLUGIN_DIR.'/statvoo/options.php');  
@@ -50,6 +60,7 @@ function statvoo() {
 if (is_admin()) {
   add_action('admin_init', 'admin_init_statvoo');
   add_action('admin_menu', 'admin_menu_statvoo');
+  add_action('admin_bar_menu', 'admin_menu_bar_statvoo', 200);
 }
 
 if (!is_admin()) {

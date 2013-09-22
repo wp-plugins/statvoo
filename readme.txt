@@ -2,8 +2,8 @@
 Contributors: Andrew Odendaal
 Tags: javascript, statvoo, analytics, traffic, realtime
 Requires at least: 2.7
-Tested up to: 3.5
-Stable tag: 1.0.6
+Tested up to: 3.6.1
+Stable tag: 1.0.7
 
 Enables Statvoo.com - Realtime Website Analytics and Traffic Monitoring - on all pages.
 

@@ -35,9 +35,9 @@ $domain = str_replace("www.", "", $urlparts ["host"]);
 
 <div class="statvoo_container_1">
 
-	<div class="statvoo_view_left" onclick="var win=window.open('http://app.statvoo.com/view/<?=$domain;?>/overview/realtime', '_blank');win.focus();">
+	<div class="statvoo_view_left" onclick="var win=window.open('http://www.statvoo.com/view/<?=$domain;?>/overview/realtime', '_blank');win.focus();">
 		<h2>View your stats!</h2>
-		<div>View this site's statistics directly on <a href="http://app.statvoo.com/view/<?=$domain;?>/overview/realtime" target="_blank">Statvoo.com</a></div>
+		<div>View this site's statistics directly on <a href="http://www.statvoo.com/view/<?=$domain;?>/overview/realtime" target="_blank">Statvoo.com</a></div>
 	</div>
 	<div class="statvoo_register_right" onclick="var win=window.open('http://www.statvoo.com/join', '_blank');win.focus();">
 		<h2>Get Started..</h2>

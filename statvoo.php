@@ -46,7 +46,7 @@ function statvoo() {
 <script type="text/javascript">
 	(function(){
 		var sac = document.createElement('script');
-		sac.src = 'http://static.statvoo.com/js/statvoo-min.js';
+		sac.src = 'https://static.statvoo.com/js/statvoo-min.js';
 		sac.type = 'text/javascript';
 		sac.async = true;
 		var sasc = document.getElementsByTagName('script')[0];

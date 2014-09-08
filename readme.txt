@@ -2,14 +2,14 @@
 Contributors: Andrew Odendaal
 Tags: javascript, statvoo, analytics, traffic, realtime
 Requires at least: 2.7
-Tested up to: 3.9.1
-Stable tag: 1.0.8
+Tested up to: 4.0
+Stable tag: 1.0.9
 
-Enables Statvoo.com - Realtime Website Analytics and Traffic Monitoring - on all pages.
+Statvoo is Advanced Realtime Website Analytics
 
 == Description ==
 
-This plugin adds the required javascript for statvoo.com realtime website traffic monitoring.
+This plugin adds the required javascript for Statvoo.com (Advanced Realtime Website Analytics).
 
 For more information visit:
 

@@ -6,7 +6,8 @@ Tested up to: 4.0
 Stable tag: 1.1.1
 
 Statvoo is Realtime Website Analytics
-Understand Your Website with <a href="http://www.statvoo.com/">Statvoo.com</a> - Realtime Website Analytics and Traffic Monitoring.
+
+Understand your website with <a href="http://www.statvoo.com/">statvoo.com</a> - realtime website analytics & traffic monitoring.
 
 == Description ==
 

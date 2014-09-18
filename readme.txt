@@ -3,9 +3,10 @@ Contributors: Andrew Odendaal
 Tags: javascript, statvoo, analytics, traffic, realtime
 Requires at least: 2.7
 Tested up to: 4.0
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 
 Statvoo is Realtime Website Analytics
+Understand Your Website with <a href="http://www.statvoo.com/">Statvoo.com</a> - Realtime Website Analytics and Traffic Monitoring.
 
 == Description ==
 

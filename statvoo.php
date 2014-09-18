@@ -2,8 +2,8 @@
 /*
 Plugin Name: Statvoo.com for Wordpress
 Plugin URI: http://wordpress.org/extend/plugins/statvoo/
-Description: Understand Your Website with <a href="http://www.statvoo.com/">Statvoo.com</a> - Realtime Website Analytics and Traffic Monitoring.
-Version: 1.1.0
+Description: Understand Your website with <a href="http://www.statvoo.com/">statvoo.com</a> - Realtime website analytics & traffic monitoring.
+Version: 1.1.1
 Author: Andrew Odendaal
 Author URI: http://www.statvoo.com/
 */

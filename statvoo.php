@@ -38,7 +38,7 @@ function admin_menu_bar_statvoo() {
 
 
 function options_page_statvoo() {
-  include(WP_PLUGIN_DIR.'/statvoo/options.php');  
+  include(WP_PLUGIN_DIR.'/statvoo/options.php');
 }
 
 function statvoo() {
@@ -46,7 +46,7 @@ function statvoo() {
 <script type="text/javascript">
 	(function(){
 		var sac = document.createElement('script');
-		sac.src = 'https://static.statvoo.com/js/statvoo-min.js';
+		sac.src = '//static.statvoo.com/js/statvoo-min.js';
 		sac.type = 'text/javascript';
 		sac.async = true;
 		var sasc = document.getElementsByTagName('script')[0];

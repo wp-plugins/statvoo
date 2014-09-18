@@ -9,6 +9,8 @@ Statvoo is Realtime Website Analytics
 
 == Description ==
 
+Understand Your Website with <a href="http://www.statvoo.com/">Statvoo.com</a> - Realtime Website Analytics and Traffic Monitoring.
+
 This plugin adds the required javascript for Statvoo.com (Realtime Website Analytics).
 
 For more information visit:

@@ -35,16 +35,7 @@ function options_page_statvoo() {
 
 function statvoo() {
 ?>
-<script type="text/javascript">
-	(function(){
-		var sac = document.createElement('script');
-		sac.src = '//static.statvoo.com/js/statvoo-min.js';
-		sac.type = 'text/javascript';
-		sac.async = true;
-		var sasc = document.getElementsByTagName('script')[0];
-		sasc.parentNode.insertBefore(sac, sasc);
-	})();
-</script>
+    <script type="text/javascript"> (function(){ var s = document.createElement('script'); s.src = document.location.protocol+'//static.statvoo.com/js/statvoo-min.js'; s.type = 'text/javascript'; s.async = true; var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t); })(); </script>
 <?php
 }
 

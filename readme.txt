@@ -1,5 +1,5 @@
 === Statvoo is Realtime Website Analytics ===
-Contributors: Andrew Odendaal
+Contributors: statvoo
 Tags: javascript, statvoo, analytics, traffic, realtime, chat, tracking, surf, customer engagement
 Requires at least: 2.7
 Tested up to: 4.0

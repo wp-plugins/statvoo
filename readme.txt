@@ -3,7 +3,7 @@ Contributors: Andrew Odendaal
 Tags: javascript, statvoo, analytics, traffic, realtime
 Requires at least: 2.7
 Tested up to: 4.0
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 
 Understand your website with <a href="http://www.statvoo.com/">statvoo.com</a> - Realtime website analytics & traffic monitoring.
 

@@ -1,9 +1,9 @@
 === Statvoo is Realtime Website Analytics ===
 Contributors: statvoo
 Tags: javascript, statvoo, analytics, traffic, realtime, chat, tracking, surf, customer engagement
-Requires at least: 2.7
+Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 
 Understand your website with <a href="http://www.statvoo.com/">statvoo.com</a> - Realtime Website Analytics.
 

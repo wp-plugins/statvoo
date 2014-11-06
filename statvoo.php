@@ -3,7 +3,7 @@
 Plugin Name: Statvoo is Realtime Website Analytics
 Plugin URI: http://wordpress.org/extend/plugins/statvoo/
 Description: Understand your website with <a href="http://www.statvoo.com/">statvoo.com</a> - Realtime Website Analytics.
-Version: 1.2.1
+Version: 1.2.4
 Author: statvoo
 Author URI: http://www.statvoo.com/
 */

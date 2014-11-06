@@ -3,7 +3,7 @@ Contributors: statvoo
 Tags: javascript, statvoo, analytics, traffic, realtime, chat, tracking, surf, customer engagement
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 
 Understand your website with <a href="http://www.statvoo.com/">statvoo.com</a> - Realtime Website Analytics.
 

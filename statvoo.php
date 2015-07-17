@@ -3,7 +3,7 @@
 Plugin Name: Realtime analytics for the web
 Plugin URI: http://wordpress.org/extend/plugins/statvoo/
 Description: <a href="https://statvoo.com/">Realtime analytics for the web</a> - <a href="https://statvoo.com/">statvoo.com</a>
-Version: 1.2.5
+Version: 1.2.6
 Author: statvoo
 Author URI: https://statvoo.com/
 */

@@ -35,13 +35,13 @@ $domain = str_replace("www.", "", $urlparts ["host"]);
 
 <div class="statvoo_container_1">
 
-	<div class="statvoo_view_left" onclick="var win=window.open('https://www.statvoo.com/website/<?=$domain;?>/overview', '_blank');win.focus();">
+	<div class="statvoo_view_left" onclick="var win=window.open('https://statvoo.com/website/<?=$domain;?>/overview', '_blank');win.focus();">
 		<h2>View your stats!</h2>
-		<div>View this site's statistics directly on <a href="https://www.statvoo.com/website/<?=$domain;?>/overview" target="_blank">Statvoo.com</a></div>
+		<div>View this site's statistics directly on <a href="https://statvoo.com/website/<?=$domain;?>/overview" target="_blank">Statvoo.com</a></div>
 	</div>
-	<div class="statvoo_register_right" onclick="var win=window.open('https://www.statvoo.com/join', '_blank');win.focus();">
+	<div class="statvoo_register_right" onclick="var win=window.open('https://statvoo.com/join', '_blank');win.focus();">
 		<h2>Get Started..</h2>
-		<div>First time you're using Statvoo on this site? <a href="https://www.statvoo.com" target="_blank">Statvoo.com</a></div>
+		<div>First time you're using Statvoo on this site? <a href="https://statvoo.com" target="_blank">Statvoo.com</a></div>
 	</div>
 	<br clear="all"/>
 

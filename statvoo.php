@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Statvoo is Realtime Website Analytics
+Plugin Name: Realtime analytics for the web
 Plugin URI: http://wordpress.org/extend/plugins/statvoo/
-Description: Understand your website with <a href="http://www.statvoo.com/">statvoo.com</a> - Realtime Website Analytics.
-Version: 1.2.4
+Description: <a href="https://statvoo.com/">Realtime analytics for the web</a> - <a href="https://statvoo.com/">statvoo.com</a>
+Version: 1.2.5
 Author: statvoo
-Author URI: http://www.statvoo.com/
+Author URI: https://statvoo.com/
 */
 
 if (!defined('WP_CONTENT_URL'))
